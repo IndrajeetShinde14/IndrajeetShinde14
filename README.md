@@ -1,79 +1,77 @@
-# Hi there, I'm Indrajeet Shinde! 👋
+# 👋 Hello, I'm **Indrajeet Shinde**!
 
-## About Me
-I am a passionate **Computer Science and Engineering** graduate with a keen interest in software development and web technologies. I love building innovative projects and continuously improving my skills.
-
-- 🔭 I’m currently working on: Building websites and enhancing my software development skills.
-- 🌱 I’m currently learning: Advanced web development and full-stack technologies.
-- ⚽ My hobbies include playing football, exploring trading strategies, and spending quality time with friends and family.
+I am a **Computer Science and Engineering** graduate with a passion for building creative and impactful software solutions. I specialize in **web development** and enjoy solving real-world problems with technology.
 
 ---
 
-## Education 🎓
+## 🛠️ **Tech Stack & Skills**
+- **Programming Languages**:  
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+- **Web Development**:  
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)  
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)  
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+- **Backend & Databases**:  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+- **Soft Skills**: Problem Solving, Teamwork, Time Management, Communication
+
+---
+
+## 🎓 **Education**
 - **B.Tech in Computer Science and Engineering**  
-  *Sharad Institute of Technology College of Engineering, Yadrav (Ichalkaranji)*  
-  CGPA: 7.72 | Graduated: 2024  
+  _Sharad Institute of Technology College of Engineering, Yadrav (Ichalkaranji)_  
+  **CGPA**: 7.72 | **Graduation Year**: 2024  
 - **HSC**  
-  *Innovative Public School and Junior College, Borawade*  
-  Percentage: 71.08%  
+  _Innovative Public School and Junior College, Borawade_  
+  **Percentage**: 71.08%  
 - **SSC**  
-  *Innovative Public School, Borawade*  
-  Percentage: 90.60%  
+  _Innovative Public School, Borawade_  
+  **Percentage**: 90.60%  
 
 ---
 
-## Internships 💼
-- **Frontend Web Developer Intern** @ Shivneri Systems  
-  _Technologies_: HTML, CSS, JavaScript  
-- **Android Developer Intern** @ QSective Solutions  
-  _Technologies_: Java, Android Studio  
-- **Full Stack Web Developer Intern** @ RacksonsIT Developers  
-  _Technologies_: React, Node.js, Express.js, MongoDB  
+## 💼 **Experience**
+### Internships
+- **Frontend Web Developer Intern** @ Shivneri Systems (2022)  
+  **Technologies**: HTML, CSS, JavaScript  
+- **Android Developer Intern** @ QSective Solutions (2022)  
+  **Technologies**: Java, Android Studio  
+- **Full Stack Web Developer Intern** @ RacksonsIT Developers (2024)  
+  **Technologies**: React, Node.js, Express.js, MongoDB  
 
 ---
 
-## Major Project 💻
-- **Portfolio Website for AnuDeep Industries**  
-  A platform showcasing the services of an agriculture-based company in Ichalkaranji.  
-  _Technologies_: HTML, CSS, Tailwind CSS, JavaScript, Node.js, Express.js  
+## 🌟 **Projects**
+### [Portfolio Website for AnuDeep Industries](https://anudeepindustries.onrender.com/)
+A dynamic website for an agriculture-based company in Ichalkaranji, showcasing their services.  
+**Technologies Used**: HTML, CSS, Tailwind CSS, JavaScript, Node.js, Express.js  
 
 ---
 
-## Skills 🚀
-- **Programming Languages**: Java, JavaScript  
-- **Soft Skills**: Problem Solving, Teamwork, Time Management, Communication  
-
----
-
-## Achievements 🏆
-- Completed **Java Full Stack Development** (EduBridge)  
+## 🏆 **Achievements**
+- **Java Full Stack Development Certification** (EduBridge)  
 - Participated in **Developer Virtual Experience Program** (Accenture)  
-- Won **Taluka-level Football Championship** thrice consecutively  
+- Won **Taluka-level Football Championship** three consecutive times 🏅
 
 ---
 
-## Let's Connect! 🌐
+## ⚽ **Hobbies**
+- Playing football 🏃‍♂️  
+- Exploring trading strategies 📈  
+- Spending time with family and friends 👨‍👩‍👧‍👦  
+
+---
+
+## 📫 **Contact Me**
 - 📞 **Phone**: +91 7767970242  
 - 📧 **Email**: [iamindrajeets242@gmail.com](mailto:iamindrajeets242@gmail.com)  
 - 🌐 **Portfolio**: [iamindrajeets242.wixsite.com](https://iamindrajeets242.wixsite.com/my-portfolio)  
 - 💼 **LinkedIn**: [Indrajeet Shinde](https://www.linkedin.com/in/indrajeet-shinde/)  
-- 🌟 **Live Project**: [AnuDeep Industries Website](https://anudeepindustries.onrender.com/)  
 
 ---
 
-Feel free to explore my repositories and projects. Let's collaborate and build something amazing! 🚀
-
-<!--
-**IndrajeetShinde14/IndrajeetShinde14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 **Quick Links**
+- 🚀 **Live Project**: [AnuDeep Industries Website](https://anudeepindustries.onrender.com/)  
+- 🌟 **GitHub Repositories**: [Explore my work here](https://github.com/)  
