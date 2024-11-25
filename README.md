@@ -13,7 +13,7 @@ I am a **Computer Science and Engineering** graduate with a passion for building
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)  
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 - **Backend & Databases**:  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 - **Soft Skills**: Problem Solving, Teamwork, Time Management, Communication
