@@ -65,12 +65,10 @@ A dynamic website for an agriculture-based company in Ichalkaranji, showcasing t
 ---
 
 ## 📫 **Contact Me**
-- 📞 **Phone**: +91 7767970242
-- [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:iamindrajeets242@gmail.com)  
-- 📧 **Email**: [iamindrajeets242@gmail.com](mailto:iamindrajeets242@gmail.com)  
-- 🌐 **Portfolio**: [iamindrajeets242.wixsite.com](https://iamindrajeets242.wixsite.com/my-portfolio)  
-- [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/indrajeet-shinde/)   
+  📞 **Phone**: +91 7767970242
+  [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:iamindrajeets242@gmail.com)  
+  🌐 **Portfolio**: [iamindrajeets242.wixsite.com](https://iamindrajeets242.wixsite.com/my-portfolio)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/indrajeet-shinde/)   
 
 ---
 
