@@ -70,6 +70,7 @@ A dynamic website for an agriculture-based company in Ichalkaranji, showcasing t
 - 📧 **Email**: [iamindrajeets242@gmail.com](mailto:iamindrajeets242@gmail.com)  
 - 🌐 **Portfolio**: [iamindrajeets242.wixsite.com](https://iamindrajeets242.wixsite.com/my-portfolio)  
 - [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/indrajeet-shinde/)  
 - 💼 **LinkedIn**: [Indrajeet Shinde](https://www.linkedin.com/in/indrajeet-shinde/)  
 
 ---
