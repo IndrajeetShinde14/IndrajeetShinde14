@@ -67,7 +67,8 @@ A dynamic website for an agriculture-based company in Ichalkaranji, showcasing t
 ## 📫 **Contact Me**
 - 📞 **Phone**: +91 7767970242  
 - 📧 **Email**: [iamindrajeets242@gmail.com](mailto:iamindrajeets242@gmail.com)  
-- 🌐 **Portfolio**: [iamindrajeets242.wixsite.com](https://iamindrajeets242.wixsite.com/my-portfolio)  
+- 🌐 **Portfolio**: [iamindrajeets242.wixsite.com](https://iamindrajeets242.wixsite.com/my-portfolio)
+- [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
 - 💼 **LinkedIn**: [Indrajeet Shinde](https://www.linkedin.com/in/indrajeet-shinde/)  
 
 ---
