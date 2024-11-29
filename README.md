@@ -60,14 +60,12 @@ A dynamic website for an agriculture-based company in Ichalkaranji, showcasing t
 ## ⚽ **Hobbies**
 - Playing football 🏃‍♂️  
 - Exploring trading strategies 📈  
-- Spending time with family and friends 👨‍👩‍👧‍👦  
 
 ---
 
 ## 📫 **Contact Me**
 - 📞 **Phone**: +91 7767970242
-- [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:iamindrajeets242@gmail.com)  
-- 📧 **Email**: [iamindrajeets242@gmail.com](mailto:iamindrajeets242@gmail.com)  
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:iamindrajeets242@gmail.com)  
 - 🌐 **Portfolio**: [iamindrajeets242.wixsite.com](https://iamindrajeets242.wixsite.com/my-portfolio)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/indrajeet-shinde/)   
 
