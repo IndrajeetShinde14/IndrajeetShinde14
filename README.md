@@ -27,21 +27,6 @@ I am a **Computer Science and Engineering** graduate with a passion for building
 
 ---
 
-## 🛠️ **Tech Stack & Skills**
-- **Programming Languages**:  
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-- **Web Development**:  
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)  
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-- **Backend & Databases**:  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)   
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-- **Soft Skills**: Problem Solving, Teamwork, Time Management, Communication
-
----
-
 ## 🎓 **Education**
 - **B.Tech in Computer Science and Engineering**  
   _Sharad Institute of Technology College of Engineering, Yadrav (Ichalkaranji)_  
