@@ -53,9 +53,9 @@ A dynamic website for an agriculture-based company in Ichalkaranji, showcasing t
 ---
 
 ## 🏆 **Achievements**
-- **Java Full Stack Development Certification** (EduBridge)  
+- **Certified Java Full Stack Professional - Capgemini College Connect**  
 - Participated in **Developer Virtual Experience Program** (Accenture)  
-- Won **Taluka-level Football Championship** three consecutive times 🏅
+- Won **Sub-District level Football Championship** three consecutive times 🏅
 
 ---
 
