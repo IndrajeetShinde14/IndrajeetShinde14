@@ -16,7 +16,8 @@ I am a **Computer Science and Engineering** graduate with a passion for building
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 - **Soft Skills**:  
-  ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-blue?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/-Teamwork-brightgreen?style=for-the-badge) ![Time Management](https://img.shields.io/badge/-Time%20Management-orange?style=for-the-badge) ![Communication](https://img.shields.io/badge/-Communication-yellow?style=for-the-badge)
+  ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-blue?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/-Teamwork-brightgreen?style=for-the-badge)  
+  ![Time Management](https://img.shields.io/badge/-Time%20Management-orange?style=for-the-badge) ![Communication](https://img.shields.io/badge/-Communication-yellow?style=for-the-badge)
 
 ---
 
