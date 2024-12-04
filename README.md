@@ -7,23 +7,16 @@ I am a **Computer Science and Engineering** graduate with a passion for building
 ## 🛠️ **Tech Stack & Skills**
 
 - **Programming Languages**:  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - **Web Development**:  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 - **Backend & Databases**:  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 - **Soft Skills**:  
-  ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-blue?style=for-the-badge)  
-  ![Teamwork](https://img.shields.io/badge/-Teamwork-brightgreen?style=for-the-badge)  
-  ![Time Management](https://img.shields.io/badge/-Time%20Management-orange?style=for-the-badge)  
-  ![Communication](https://img.shields.io/badge/-Communication-yellow?style=for-the-badge)
+  ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-blue?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/-Teamwork-brightgreen?style=for-the-badge) ![Time Management](https://img.shields.io/badge/-Time%20Management-orange?style=for-the-badge) ![Communication](https://img.shields.io/badge/-Communication-yellow?style=for-the-badge)
 
 ---
 
@@ -76,10 +69,9 @@ A dynamic website for an agriculture-based company in Ichalkaranji, showcasing t
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamindrajeets242@gmail.com)   
 - [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://iamindrajeets242.wixsite.com/my-portfolio)   
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indrajeet-shinde/)   
- 
 
 ---
 
 ## 🔗 **Quick Links**
 - 🚀 **Live Project**: [AnuDeep Industries Website](https://anudeepindustries.onrender.com/)  
-- 🌟 **GitHub Repositories**: [Explore my work here](https://github.com/)  
+- ✯ **GitHub Repositories**: [Explore my work here](https://github.com/)
