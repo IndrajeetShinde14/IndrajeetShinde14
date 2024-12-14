@@ -1,77 +1,70 @@
 # 👋 Hello, I'm **Indrajeet Shinde**!
 
-I am a **Computer Science and Engineering** graduate with a passion for building creative and impactful software solutions. I specialize in **web development** and enjoy solving real-world problems with technology.
+**Aspiring Software Engineer**
+
+Hello! I'm Indrajeet Shinde, a passionate software developer with a solid foundation in Computer Science and Engineering. I'm driven by curiosity, adaptability, and a relentless pursuit of excellence in software development. 
 
 ---
 
-## 👨🏻‍💻 **Tech Stack & Skills**
-
-- **Programming Languages**:  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-- **Web Development**:  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-- **Backend & Databases**:  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-- **Soft Skills**:  
-  ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-blue?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/-Teamwork-brightgreen?style=for-the-badge)  
-  ![Time Management](https://img.shields.io/badge/-Time%20Management-orange?style=for-the-badge) ![Communication](https://img.shields.io/badge/-Communication-yellow?style=for-the-badge)
+## 🎯 Career Objective
+To leverage my technical expertise and team collaboration skills to contribute to innovative software projects, while continuously learning and eventually growing into a leadership role in the tech industry.
 
 ---
 
-## 🎓 **Education**
-- **B.Tech in Computer Science and Engineering**  
-  _Sharad Institute of Technology College of Engineering, Yadrav (Ichalkaranji)_  
-  **CGPA**: 7.72 | **Graduation Year**: 2024  
-- **HSC**  
-  _Innovative Public School and Junior College, Borawade_  
-  **Percentage**: 71.08%  
-- **SSC**  
-  _Innovative Public School, Borawade_  
-  **Percentage**: 90.60%  
+## 🛠️ Technical Skills
+
+- **Languages:** Java, JavaScript, SQL
+- **Frameworks:** Spring, Hibernate
+- **Front-end Technologies:** HTML, CSS, Tailwind CSS, React.js
+- **Back-end Technologies:** Node.js, RESTful APIs
+- **Databases:** MySQL
 
 ---
 
-## 💼 **Experience**
-### Internships
-- **Frontend Web Developer Intern** @ Shivneri Systems (2022)  
-  **Technologies**: HTML, CSS, JavaScript  
-- **Android Developer Intern** @ QSective Solutions (2022)  
-  **Technologies**: Java, Android Studio  
-- **Full Stack Web Developer Intern** @ RacksonsIT Developers (2024)  
-  **Technologies**: React, Node.js, Express.js, MongoDB  
+## 🎓 Education
+
+| Degree      | Institution                                                                                    | Board/University                                | Year  | Marks/CGPA |
+|-------------|------------------------------------------------------------------------------------------------|-------------------------------------------------|-------|------------|
+| **B.Tech**  | Sharad Institute of Technology College of Engineering, Yadrav                                  | Dr. Babasaheb Ambedkar Technological University | 2024  | 7.72 CGPA  |
+| **XII**     | Innovative Public School And Junior College, Borawade                                          | Maharashtra State Board                         | 2020  | 71.08%     |
+| **X**       | Innovative Public School, Borawade                                                             | Maharashtra State Board                         | 2018  | 90.60%     |
 
 ---
 
-## 🌟 **Projects**
-### [Portfolio Website for AnuDeep Industries](https://anudeepindustries.onrender.com/)
-A dynamic website for an agriculture-based company in Ichalkaranji, showcasing their services.  
-**Technologies Used**: HTML, CSS, Tailwind CSS, JavaScript, Node.js, Express.js  
+## 🚀 Projects
+
+### [Pizza Hut Dynamic Website](https://github.com/your-repo-link)
+- **Duration:** 1 Month
+- **Technologies:** Java SE, MySQL, React.js, RESTful APIs, Spring, Hibernate
+- **Description:** Developed a dynamic website to streamline pizza ordering and ensure efficient delivery. 
+
+### [Website for Anudeep Industries](https://github.com/IndrajeetShinde14/Final-Year-Project)
+- **Duration:** 6 Months
+- **Technologies:** HTML, Tailwind CSS, JavaScript, Node.js
+- **Description:** Designed and implemented a website to boost the online presence of an engineering and consultancy services company.
 
 ---
 
-## 🏆 **Achievements**
-- **Certified Java Full Stack Professional - Capgemini College Connect**  
-- Participated in **Developer Virtual Experience Program** (Accenture)  
-- Won **Sub-District level Football Championship** three consecutive times 🏅
+## 🏆 Achievements
+- Certified Java Full Stack Professional by Capgemini College Connect.
+- Won a sub-district level football competition 3 years consecutively.
+- Experience in independently managing a medical shop.
 
 ---
 
-## ⚽ **Hobbies**
-- Playing football 🏃‍♂️  
-- Exploring trading strategies 📈  
+## 🌱 Interests and Hobbies
+- Playing football 🏈
+- Competitive online gaming 🎮
+- Watching documentaries and web series 🎥
 
 ---
 
-## ☎️ **Contact Me**
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamindrajeets242@gmail.com)   
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://iamindrajeets242.wixsite.com/my-portfolio)   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indrajeet-shinde/)      
+## 📫 Contact Me
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **GitHub:** [github.com/IndrajeetShinde14](https://github.com/IndrajeetShinde14)
 
 ---
 
-## 🔗 **Quick Links**
-- 🚀 **Live Project**: [AnuDeep Industries Website](https://anudeepindustries.onrender.com/)  
-- ✯ **GitHub Repositories**: [Explore my work here](https://github.com/)
+🌟 *"Code is like humor. When you have to explain it, it’s bad."* - Cory House
+
