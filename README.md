@@ -2,7 +2,7 @@
 
 **Aspiring Software Engineer**
 
-Hello! I'm Indrajeet Shinde, a passionate software developer with a solid foundation in Computer Science and Engineering. I'm driven by curiosity, adaptability, and a relentless pursuit of excellence in software development. 
+A passionate software developer with a solid foundation in Computer Science and Engineering. I'm driven by curiosity, adaptability, and a relentless pursuit of excellence in software development. 
 
 ---
 
@@ -11,7 +11,7 @@ To leverage my technical expertise and team collaboration skills to contribute t
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Technical Skills
 
 - **Languages:** Java, JavaScript, SQL
 - **Frameworks:** Spring, Hibernate
@@ -52,10 +52,11 @@ To leverage my technical expertise and team collaboration skills to contribute t
 
 ---
 
-## 🌱 Interests and Hobbies
+## ⚡ Interests and Hobbies
 - Playing football ⚽
 - Competitive online gaming 🎮
 - Watching web series 🎥
+- Stock Market 📈
 
 ---
 
