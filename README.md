@@ -53,16 +53,16 @@ To leverage my technical expertise and team collaboration skills to contribute t
 ---
 
 ## 🌱 Interests and Hobbies
-- Playing football 🏈
+- Playing football ⚽
 - Competitive online gaming 🎮
 - Watching web series 🎥
 
 ---
 
 ## 📫 Contact Me
-- **Email:** [your-email@example.com](mailto:your-iamindrajeets242@gmailcom)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/indrajeet-shinde/)
-- **GitHub:** [github.com/IndrajeetShinde14](https://github.com/IndrajeetShinde14)
+- **Email:** [iamindrajeets242@gmail.com](mailto:iamindrajeets242@gmail.com)
+- **LinkedIn:** [Indrajeet Shinde](https://www.linkedin.com/in/indrajeet-shinde/)
+- **GitHub:** [IndrajeetShinde14](https://github.com/IndrajeetShinde14)
 
 ---
 
