@@ -62,7 +62,7 @@ To leverage my technical expertise and team collaboration skills to contribute t
 
 ## 📫 Contact Me
 - **Email:** [iamindrajeets242@gmail.com](mailto:iamindrajeets242@gmail.com)
-- **Resume:** [View PDF](https://github.com/IndrajeetShinde14/IndrajeetShinde14/blob/main/ACTS-Resume.pdf)
+- **Resume:** [View PDF](https://github.com/IndrajeetShinde14/IndrajeetShinde14/blob/main/Indrajeet_Shinde_Resume.pdf)
 - **LinkedIn:** [Indrajeet Shinde](https://www.linkedin.com/in/indrajeet-shinde/)
 - **GitHub:** [IndrajeetShinde14](https://github.com/IndrajeetShinde14)
 
