@@ -23,13 +23,11 @@ To leverage my technical expertise and team collaboration skills to contribute t
 
 ## 🎓 Education
 
-| Degree      | Institution                                                                                    | Board/University                                | Year  | Marks/CGPA |
-|-------------|------------------------------------------------------------------------------------------------|-------------------------------------------------|-------|------------|
-| **B.Tech**  | Sharad Institute of Technology College of Engineering, Yadrav                                  | Dr. Babasaheb Ambedkar Technological University | 2024  | 7.72 CGPA  |
-| **XII**     | Innovative Public School And Junior College, Borawade                                          | Maharashtra State Board of Secondary and Higher
-Secondary Education, Pune                         | 2020  | 71.08%     |
-| **X**       | Innovative Public School, Borawade                                                             | Maharashtra State Board of Secondary and Higher
-Secondary Education, Pune                        | 2018  | 90.60%     |
+| Degree      | Institution                                                                                    | Board/University                                                           | Year  | Marks/CGPA |
+|-------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------|------------|
+| **B.Tech**  | Sharad Institute of Technology College of Engineering, Yadrav                                  | Dr. Babasaheb Ambedkar Technological University                            | 2024  | 7.72 CGPA  |
+| **XII**     | Innovative Public School And Junior College, Borawade                                          | Maharashtra State Board of Secondary and Higher Secondary Education, Pune  | 2020  | 71.08%     |
+| **X**       | Innovative Public School, Borawade                                                             | Maharashtra State Board of Secondary and Higher Secondary Education, Pune  | 2018  | 90.60%     |
 
 ---
 
