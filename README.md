@@ -17,7 +17,7 @@ To leverage my technical expertise and team collaboration skills to contribute t
 - **Frameworks:** Spring, Hibernate
 - **Front-end Technologies:** HTML, CSS, Tailwind CSS, React.js
 - **Back-end Technologies:** Node.js, RESTful APIs
-- **Databases:** MySQL
+- **Databases:** MySQL, MongoDB
 
 ---
 
