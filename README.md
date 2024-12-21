@@ -68,5 +68,5 @@ To leverage my technical expertise and team collaboration skills to contribute t
 
 ---
 
-🌟 *"Code is like humor. When you have to explain it, it’s bad."* - Cory House
+<!--- 🌟 *"Code is like humor. When you have to explain it, it’s bad."* - Cory House --->
 
