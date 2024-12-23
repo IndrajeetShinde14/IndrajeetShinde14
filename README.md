@@ -14,7 +14,7 @@ To leverage my technical expertise and team collaboration skills to contribute t
 ## 💻 Technical Skills
 
 - **Languages:** Java, JavaScript, SQL
-- **Frameworks:** Spring, Hibernate
+- **Frameworks:** Spring Boot, Hibernate
 - **Front-end Technologies:** HTML, CSS, Tailwind CSS, React.js
 - **Back-end Technologies:** Node.js, RESTful APIs
 - **Databases:** MySQL, MongoDB
